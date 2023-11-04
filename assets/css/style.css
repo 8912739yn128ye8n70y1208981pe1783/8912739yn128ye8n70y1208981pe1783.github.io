@@ -48,7 +48,7 @@
 /* Variables
 -----------------------------------------------------------------*/
 :root {
-  --maincolor: #219844;
+  --maincolor: #009f13;
 }
 
 /* Typography
@@ -1735,6 +1735,7 @@ body.loaded {
 
 .author-profile .img {
   background: rgb(78, 0, 161);
+  filter: saturate(1.4);
 }
 
 .author-profile .img img {

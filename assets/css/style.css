@@ -2161,8 +2161,20 @@ img.left {
   background-size: contain !important;
 }
 
+.portfolio-section-padding {
+  padding: 120px 0 0 0;
+}
+
+.about-section-padding {
+  padding: 120px 0 50px 0;
+}
+
 .resume-section-padding {
   padding: 50px 0;
+}
+
+.services-section-padding {
+  padding: 0 0 50px 0;
 }
 
 .section-padding {
